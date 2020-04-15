@@ -1,3 +1,3 @@
-Simple version of my student building in the Netherlands made with OpenGL
+Simple version of my building made with OpenGL
 
 ![](sceneview.png)
